@@ -1,4 +1,4 @@
-# com.colamh.adguard
+# com.colamh.enhancer
 一个对 cola 漫画的增强模块
 # 🚧 Cola 增强模块 (开发中)
 
